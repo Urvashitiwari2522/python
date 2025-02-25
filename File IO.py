@@ -20,11 +20,11 @@ f.write("Hello, world")
 f.close() 
 '''The with statement => Alternatively, you can used the with statement to automatically close the file after 
 you are done with it.'''
-with open('file.txt' , 'a') as f:
+with open('file.txt','a') as f:
     f.write("hii")
-with open('file1.txt' , 'w') as f:
+with open('file1.txt','w') as f:
     f.write("Hey, I am Urvashi!")
-with open('readline.txt', 'w') as f:
+with open('readline.txt','w') as f:
     f.write("43,87,98\n")
     f.write("87,67,79\n")
     f.write("98,90,95")
