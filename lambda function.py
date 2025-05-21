@@ -2,10 +2,10 @@
 # they are commonly used as argument to higher-ordered functions such as map , filter, reduce
 # Using function
 def square(x):
-    return x*2
+    return x*x
 print(square(2))
 # Using lambda 
-sq = lambda x: x*2
+sq = lambda x: x*x
 print(sq(5))
 
 # cube using lambda
