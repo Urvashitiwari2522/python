@@ -1,0 +1,16 @@
+
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'check_file_character_count' is not defined
+PS C:\Users\urvashi tiwari\Desktop\Python\project> & "C:/Users/urvashi tiwari/AppData/Local/Programs/Python/Python313/python.exe" "c:/Users/urvashi tiwari/Desktop/Python/RangeError_fileHandling.py"
+Traceback (most recent call last):
+  File "c:\Users\urvashi tiwari\Desktop\Python\RangeError_fileHandling.py", line 19, in <module>
+    check_file_character_count("sample.txt")
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'check_file_character_count' is not defined
+PS C:\Users\urvashi tiwari\Desktop\Python\project> & "C:/Users/urvashi tiwari/AppData/Local/Programs/Python/Python313/python.exe" "c:/Users/urvashi tiwari/Desktop/Python/RangeError_fileHandling.py"
+Traceback (most recent call last):
+  File "c:\Users\urvashi tiwari\Desktop\Python\RangeError_fileHandling.py", line 19, in <module>
+    check_file_character_count("sample.txt")
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'check_file_character_count' is not defined
+PS C:\Users\urvashi tiwari\Desktop\Python\project> 

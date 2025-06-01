@@ -8,7 +8,8 @@ with open('file1.txt' , 'r') as f:
 # read the next 5 byte
   data = f.read(7) 
   print(data)
-#   tell() function => The tell function return the current position within the file, in bytes , These can be usedfull for 
+#   tell() function => The tell function return the current position within the file, in bytes ,
+#  These can be usedfull for 
 # keeping track  of your location withiin the file 
 with open('file1.txt' , 'r') as f:
 #  data = f.read(12)
