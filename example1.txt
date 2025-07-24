@@ -1,0 +1,6 @@
+Hello, world!
+Welcome to Python file handling
+Line 1
+Line 2
+Line 3
+This is printed to a file.
